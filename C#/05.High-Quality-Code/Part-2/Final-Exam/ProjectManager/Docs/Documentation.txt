@@ -1,0 +1,23 @@
+﻿Bugs:
+
+#1 - Bug found in class CommandProcessor, in ProccessCommand method: Cannot assign ICommand to string type!!
+      -> Fixed!
+
+#2 - Bug found in class Engine, in Start method: missing statement in for loop!!
+      -> Fixed!
+
+#3 - Missing case: CreateUserCommand in method CreateCommandFromString in CommandsFactory class!
+      -> Fixed!
+
+#4 - Infinity loop in BuildCommand methosd in CommandFactory class!!
+      -> Fixed!
+
+#5 - User and Email are swiched in User class - printing wrong value
+      -> Fixed!
+
+#6 - Bug found in Task class: Does not print owner information!!
+      -> Fixed!
+
+Bottleneck:
+
+#1
