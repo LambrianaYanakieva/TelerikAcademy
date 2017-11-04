@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCard", "PlayCard\PlayCard.csproj", "{8668F8B1-27E8-4282-8DB8-CBA86068019F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8668F8B1-27E8-4282-8DB8-CBA86068019F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8668F8B1-27E8-4282-8DB8-CBA86068019F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8668F8B1-27E8-4282-8DB8-CBA86068019F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8668F8B1-27E8-4282-8DB8-CBA86068019F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A85173-2A12-408A-A8D7-DABB97BC5D4E}
+	EndGlobalSection
+EndGlobal
