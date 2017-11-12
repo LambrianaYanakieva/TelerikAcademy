@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixingNumber", "MixingNumber\MixingNumber.csproj", "{E3F17BF8-39FF-42EE-ABB9-CA2F6ADD9EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F17BF8-39FF-42EE-ABB9-CA2F6ADD9EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F17BF8-39FF-42EE-ABB9-CA2F6ADD9EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F17BF8-39FF-42EE-ABB9-CA2F6ADD9EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F17BF8-39FF-42EE-ABB9-CA2F6ADD9EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174D0AE4-486E-4E27-9818-3CC9F1386D72}
+	EndGlobalSection
+EndGlobal
